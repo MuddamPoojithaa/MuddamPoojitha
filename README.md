@@ -15,7 +15,7 @@
 
 - 👧✔All of my projects are available at **https://github.com/MuddamPoojithaa✨**
 
-- 🤔 I’m looking for help with **appointment_with_company**
+- 🤔 I’m looking for **Internship**
 
 - 😄 Pronouns **She/her**
 
