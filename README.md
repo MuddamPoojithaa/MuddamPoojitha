@@ -7,19 +7,19 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about ** DevOps,AWS,python,html,css,django,web scrapping**
+- 💬 Ask me about **DevOps,AWS,python,html,css,django,web scrapping**
 
 - 📫 How to reach me **muddampoojitha43@gmail.com**
 
 - 👯 I’m looking to collaborate on **developers in community**
 
-- 👧✔All of my projects are available at https://github.com/MuddamPoojithaa ✨
+- 👧✔All of my projects are available at **https://github.com/MuddamPoojithaa✨**
 
 - 🤔 I’m looking for help with **appointment_with_company**
 
-- 😄 Pronouns ** She/her 😊*
+- 😄 Pronouns **She/her**
 
-- ⚡ Fun fact   ** I'm fairly good with Sketching ❤😉**
+- ⚡ Fun fact   **I'm fairly good with Sketching ❤😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
