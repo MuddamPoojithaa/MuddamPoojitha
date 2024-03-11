@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm poojitha</h1>
+<h1 align="center">Hi 👋, I'm Poojitha</h1>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojitha4647&label=Profile%20views&color=0e75b6&style=flat" alt="poojitha4647" /> </p>
