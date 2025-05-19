@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **DevOps,AWS,python,html,css,django,web scrapping**
+- 💬 Ask me about **FULL STACK WEB DEVELOPER**
 
 - 📫 How to reach me **muddampoojitha43@gmail.com**
 
